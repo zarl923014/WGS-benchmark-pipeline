@@ -1,2 +1,2 @@
 # WGS-benchmark-pipeline
-using GIAB for 
+How to evaluate a pipeline's accuracy using GIAB hign-confidence calls?
